@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ParkingLot
+comment1.params=spaces\ floor
+comment1.target=ParkingLot(int,\ int)
+numComments=2

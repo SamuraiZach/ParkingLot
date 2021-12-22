@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ParkingSpace
+comment1.params=x\ y\ Compactcheck
+comment1.target=ParkingSpace(int,\ char,\ boolean)
+comment2.params=
+comment2.target=int\ getSpaceNum()
+comment3.params=
+comment3.target=char\ getFloor()
+comment4.params=
+comment4.target=boolean\ getCompact()
+comment5.params=
+comment5.target=boolean\ getOccupied()
+comment6.params=changer
+comment6.target=void\ setOccupied(boolean)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
